@@ -20,6 +20,52 @@
 /*  00 - Home
 /*----------------------------------------*/
 
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.slider {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+.slides {
+  display: flex;
+  width: 300%; /* 3 images */
+  height: 100%;
+  animation: slideAnimation 15s infinite;
+}
+
+.slides img {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+
+/* Animation */
+@keyframes slideAnimation {
+  0%    { transform: translateX(0%); }
+  33%   { transform: translateX(0%); }
+  38%   { transform: translateX(-100%); }
+  66%   { transform: translateX(-100%); }
+  71%   { transform: translateX(-200%); }
+  100%  { transform: translateX(-200%); }
+}
+
+
+
+
+
+
 /** Homepage 01 **/
 .swiper-button-next.swiper-button-next-1,
 .swiper-button-next.swiper-button-next-2 {
@@ -105,7 +151,7 @@
     display: flex;
 }
 .home1-about-us .home1-about-us-img-left img:first-child{
-    margin: 0 0 0 -42px;
+    margin: 20 20 20 12px;
     margin-bottom: 20px;
 }
 .home1-about-us .home1-about-us-img-right img{
@@ -161,6 +207,7 @@
     color: var(--pbmit-global-color);
     border-color: var(--pbmit-global-color);
 }
+
 .wpem-event-banner {
     padding-right: 0;
     position: absolute;
@@ -403,14 +450,14 @@ a.event-style-color.tour::after{
     color: var(--pbmit-blackish-color)!important;
 }
 .history-section-bg{
-    background-image: url(../images/bg/bg04.png);
-    background-position:top left;
+    background-image: url(../images/bg1.png);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: auto;
 }
 .faq-section-bg{
-    background-image: url(../images/bg/bg-04.png);
-    background-position: top center;
+    background-image: url(../images/bg1.png);
+    background-position: center;
     background-repeat: no-repeat;
     margin-top: -150px;
     padding: 290px 0px 0px 0px;

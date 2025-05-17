@@ -5,8 +5,7 @@
                <div class="container">
                   <div class="row">
                      <div class=" col-sm-12 col-lg-6">								
-                        <div class="pbmit-footer-logo">
-                           <img src="images/footer-logo-new.svg" alt="Politicia Demo1" />
+                        
                         </div>                        
                      </div>			
                   </div>

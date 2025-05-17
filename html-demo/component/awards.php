@@ -8,42 +8,170 @@
                   <div class="swiper-slider" data-autoplay="false" data-dots="true" data-arrows="false" data-columns="3" data-margin="30" data-effect="slide">
                      <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <!-- Slide1 -->
+                            
+                           <!-- Slide4 -->
                            <article class="pbmit-blog-style-2 politics pbmit-odd pbmit-col-odd">
                               <div class="post-item">
                                  <div class="pbmit-featured-container">
                                     <div class="pbmit-featured-wrapper">
-                                       <img src="images/blog/blog02.jpg" class="img-fluid w-100" alt="" />
-                                    </div>
-                                    <div class="pbmit-meta-date-wrapper">					
-                                       <span class="pbmit-date">20 </span>
-                                       <span class="pbmit-month"> Jul</span> 
+                                       <img src="images/awards/best_college.png" class="img-fluid w-100" alt="" />
                                     </div>
                                  </div>
                                  <div class="pbminfotech-box-content">
                                     <div class="pbmit-meta-container">
-                                       <div class="pbmit-meta-category pbmit-meta-line">
-                                          <i class="pbmit-base-icon-bookmark"></i>
-                                          <a href="blog-classic.html" rel="category tag">Politics</a>		
+                                       <div class="pbmit-meta-category">
+                                         
                                        </div>
-                                       <div class="pbmit-meta-author-wrapper pbmit-meta-line">							
-                                          <a href="#" title="Posted by admin" rel="author">
-                                             <i class="pbmit-base-icon-user-circle"></i> by admin
-                                          </a>
+                                       <div class="pbmit-meta-author-wrapper">							
+                                                                                 </div>
+                                    </div>
+                                    <h3 class="pbmit-post-title">
+                                       <a href="blog-details.html">Best College award -  Noble University's academic excellence</a>
+                                    </h3>
+                                                                     </div>
+                              </div>
+                           </article>
+                        </div>
+                        <div class="swiper-slide">
+                           <!-- Slide5 -->
+                           <article class="pbmit-blog-style-2 politics pbmit-odd pbmit-col-odd">
+                              <div class="post-item">
+                                 <div class="pbmit-featured-container">
+                                    <div class="pbmit-featured-wrapper">
+                                       <img src="images/awards/excellence_edu.png" class="img-fluid w-100" alt="" />
+                                    </div>
+                                   
+                                 </div>
+                                 <div class="pbminfotech-box-content">
+                                    <div class="pbmit-meta-container">
+                                       <div class="pbmit-meta-category">
+                                         
                                        </div>
-                                       <div class="pbmit-meta-comment-wrapper pbmit-meta-line">	
+                                       <div class="pbmit-meta-author-wrapper">							
+                                                                                 </div>
+                                       <div class="pbmit-meta-comment-wrapper">	
                                           <span class="pbmit-meta pbmit-meta-comments">
-                                             <i class="pbmit-base-icon-comment"></i> 1 
-                                             <span class="pbmit-meta pbmit-meta-comments">Comments</span>
-                                          </span>
+                                            
                                        </div>
                                     </div>
                                     <h3 class="pbmit-post-title">
-                                       <a href="blog-details.html">Year 2024: Best residential project - Noble Paradise</a>
+                                       <a href="">Excellence in education award - Transforming higher education in Junagadh</a>
                                     </h3>
-                                    <div class="pbminfotech-box-desc">
-                                       The point of using is that it has a more-or-less normal distribution of letters, as opposed to using making it…		
+                                    
+                                 </div>
+                              </div>
+                           </article>
+                        </div>
+                        <div class="swiper-slide">
+                        	 <!-- Slide5 -->
+                           <article class="pbmit-blog-style-2 politics pbmit-odd pbmit-col-odd">
+                              <div class="post-item">
+                                 <div class="pbmit-featured-container">
+                                    <div class="pbmit-featured-wrapper">
+                                       <img src="images/awards/covid.png" class="img-fluid w-100" alt="" />
                                     </div>
+                                    
+                                 </div>
+                                 <div class="pbminfotech-box-content">
+                                    <div class="pbmit-meta-container">
+                                       <div class="pbmit-meta-category">
+                                          		
+                                       </div>
+                                       <div class="pbmit-meta-author-wrapper">							
+                                          
+                                       </div>
+                                       <div class="pbmit-meta-comment-wrapper">	
+                                          <span class="pbmit-meta pbmit-meta-comments">
+                                                                                   </div>
+                                    </div>
+                                    <h3 class="pbmit-post-title">
+                                       <a href="">Best social activities during covid</a>
+                                    </h3>
+                                    
+                                 </div>
+                              </div>
+                           </article>
+                        </div>
+                        <div class="swiper-slide">
+                        	 <!-- Slide5 -->
+                           <article class="pbmit-blog-style-2 politics pbmit-odd pbmit-col-odd">
+                              <div class="post-item">
+                                 <div class="pbmit-featured-container">
+                                    <div class="pbmit-featured-wrapper">
+                                       <img src="images/awards/divya_bhaskar.png" class="img-fluid w-100" alt="" />
+                                    </div>
+                                    
+                                 </div>
+                                 <div class="pbminfotech-box-content">
+                                    <div class="pbmit-meta-container">
+                                       <div class="pbmit-meta-category">
+                                          	
+                                       </div>
+                                       <div class="pbmit-meta-author-wrapper">							
+                                          
+                                       </div>
+                                       <div class="pbmit-meta-comment-wrapper">	
+                                          <span class="pbmit-meta pbmit-meta-comments">
+                                     </div>
+                                    </div>
+                                    <h3 class="pbmit-post-title">
+                                       <a href="">February 2022: Divya Bhaskar Award</a>
+                                    </h3>
+                                 </div>
+                              </div>
+                           </article>
+                        </div>
+                        <div class="swiper-slide">
+                        	 <!-- Slide5 -->
+                           <article class="pbmit-blog-style-2 politics pbmit-odd pbmit-col-odd">
+                              <div class="post-item">
+                                 <div class="pbmit-featured-container">
+                                    <div class="pbmit-featured-wrapper">
+                                       <img src="images/awards/bar_presidential.png" class="img-fluid w-100" alt="" />
+                                    </div>
+                                 </div>
+                                 <div class="pbminfotech-box-content">
+                                    <div class="pbmit-meta-container">
+                                       <div class="pbmit-meta-category">
+                                          
+                                       </div>
+                                       <div class="pbmit-meta-author-wrapper">							
+                                         
+                                       </div>
+                                       <div class="pbmit-meta-comment-wrapper">	
+                                          <span class="pbmit-meta pbmit-meta-comments">
+                                       </div>
+                                    </div>
+                                    <h3 class="pbmit-post-title">
+                                       <a href="">Year 2024: Bar Presidential Award</a>
+                                    </h3>
+                                    
+                                 </div>
+                              </div>
+                           </article>
+                        </div>
+                        <div class="swiper-slide">
+                           <!-- Slide1 -->
+                           <article class="pbmit-blog-style-2 politics pbmit-odd pbmit-col-odd">
+                              <div class="post-item">
+                                 <div class="pbmit-featured-container">
+                                    <div class="pbmit-featured-wrapper">
+                                       <img src="images/awards/noble_paradise.png" class="img-fluid w-100" alt="" />
+                                    </div></div>
+                                 <div class="pbminfotech-box-content">
+                                    <div class="pbmit-meta-container">
+                                       <div class="pbmit-meta-category">
+                                                
+                                       </div>
+                                       <div class="pbmit-meta-author-wrapper">                                       </div>
+                                       <div class="pbmit-meta-comment-wrapper">  
+                                             
+                                       </div>
+                                    </div>
+                                    <h3 class="pbmit-post-title">
+                                       <a href="">Year 2024: Best residential project - Noble Paradise</a>
+                                    </h3>
+                                    
                                  </div>
                               </div>
                            </article>
@@ -54,37 +182,25 @@
                               <div class="post-item">
                                  <div class="pbmit-featured-container">
                                     <div class="pbmit-featured-wrapper">
-                                       <img src="images/blog/blog03.jpg" class="img-fluid w-100" alt="" />
+                                       <img src="images/awards/noble_crown.png" class="img-fluid w-100" alt="" />
                                     </div>
-                                    <div class="pbmit-meta-date-wrapper">					
-                                       <span class="pbmit-date">10 </span>
-                                       <span class="pbmit-month"> Jun</span> 
-                                    </div>
+                                 
                                  </div>
                                  <div class="pbminfotech-box-content">
                                     <div class="pbmit-meta-container">
-                                       <div class="pbmit-meta-category pbmit-meta-line">
-                                          <i class="pbmit-base-icon-bookmark"></i>
-                                          <a href="blog-classic.html" rel="category tag">Press</a>		
+                                       <div class="pbmit-meta-category">
+                                         
                                        </div>
-                                       <div class="pbmit-meta-author-wrapper pbmit-meta-line">							
-                                          <a href="#" title="Posted by admin" rel="author">
-                                             <i class="pbmit-base-icon-user-circle"></i> by admin
-                                          </a>
+                                       <div class="pbmit-meta-author-wrapper">                     
+                                          
                                        </div>
-                                       <div class="pbmit-meta-comment-wrapper pbmit-meta-line">	
-                                          <span class="pbmit-meta pbmit-meta-comments">
-                                             <i class="pbmit-base-icon-comment"></i> 1 
-                                             <span class="pbmit-meta pbmit-meta-comments">Comments</span>
-                                          </span>
-                                       </div>
+                                       <div class="pbmit-meta-comment-wrapper">  
+                                         
                                     </div>
                                     <h3 class="pbmit-post-title">
-                                       <a href="blog-details.html">Year 2024: Best luxury residential building - Noble Crown</a>
+                                       <a href="">Year 2024: Best luxury residential building - Noble Crown</a>
                                     </h3>
-                                    <div class="pbminfotech-box-desc">
-                                       The point of using is that it has a more-or-less normal distribution of letters, as opposed to using making it…		
-                                    </div>
+                                   
                                  </div>
                               </div>
                            </article>
@@ -95,230 +211,20 @@
                               <div class="post-item">
                                  <div class="pbmit-featured-container">
                                     <div class="pbmit-featured-wrapper">
-                                       <img src="images/blog/blog04.jpg" class="img-fluid w-100" alt="" />
+                                       <img src="images/awards/edupreniours.png" class="img-fluid w-100" alt="" />
                                     </div>
-                                    <div class="pbmit-meta-date-wrapper">					
-                                       <span class="pbmit-date">31</span>
-                                       <span class="pbmit-month"> may</span> 
-                                    </div>
-                                 </div>
+                                                                     </div>
                                  <div class="pbminfotech-box-content">
                                     <div class="pbmit-meta-container">
-                                       <div class="pbmit-meta-category pbmit-meta-line">
-                                          <i class="pbmit-base-icon-bookmark"></i>
-                                          <a href="blog-classic.html" rel="category tag">Statement</a>		
+                                       <div class="pbmit-meta-category">
+                                                
                                        </div>
-                                       <div class="pbmit-meta-author-wrapper pbmit-meta-line">							
-                                          <a href="#" title="Posted by admin" rel="author">
-                                             <i class="pbmit-base-icon-user-circle"></i> by admin
-                                          </a>
-                                       </div>
-                                    </div>
+                                       <div class="pbmit-meta-author-wrapper">                                                  </div>
+                                 
                                     <h3 class="pbmit-post-title">
-                                       <a href="blog-details.html">Endupreneurs award - Recognising excellence in Education</a>
+                                       <a href="">Endupreneurs award - Recognising excellence in Education</a>
                                     </h3>
-                                    <div class="pbminfotech-box-desc">
-                                       The point of using is that it has a more-or-less normal distribution of letters, as opposed to using making it…		
-                                    </div>
-                                 </div>
-                              </div>
-                           </article>
-                        </div>
-                        <div class="swiper-slide">
-                           <!-- Slide4 -->
-                           <article class="pbmit-blog-style-2 politics pbmit-odd pbmit-col-odd">
-                              <div class="post-item">
-                                 <div class="pbmit-featured-container">
-                                    <div class="pbmit-featured-wrapper">
-                                       <img src="images/blog/blog05.jpg" class="img-fluid w-100" alt="" />
-                                    </div>
-                                    <div class="pbmit-meta-date-wrapper">					
-                                       <span class="pbmit-date">26 </span>
-                                       <span class="pbmit-month"> may</span> 
-                                    </div>
-                                 </div>
-                                 <div class="pbminfotech-box-content">
-                                    <div class="pbmit-meta-container">
-                                       <div class="pbmit-meta-category pbmit-meta-line">
-                                          <i class="pbmit-base-icon-bookmark"></i>
-                                          <a href="blog-classic.html" rel="category tag">Politics</a>		
-                                       </div>
-                                       <div class="pbmit-meta-author-wrapper pbmit-meta-line">							
-                                          <a href="#" title="Posted by admin" rel="author">
-                                             <i class="pbmit-base-icon-user-circle"></i> by admin
-                                          </a>
-                                       </div>
-                                    </div>
-                                    <h3 class="pbmit-post-title">
-                                       <a href="blog-details.html">Best College award -  Noble University's academic excellence</a>
-                                    </h3>
-                                    <div class="pbminfotech-box-desc">
-                                       The point of using is that it has a more-or-less normal distribution of letters, as opposed to using making it…		
-                                    </div>
-                                 </div>
-                              </div>
-                           </article>
-                        </div>
-                        <div class="swiper-slide">
-                           <!-- Slide5 -->
-                           <article class="pbmit-blog-style-2 politics pbmit-odd pbmit-col-odd">
-                              <div class="post-item">
-                                 <div class="pbmit-featured-container">
-                                    <div class="pbmit-featured-wrapper">
-                                       <img src="images/blog/blog01.jpg" class="img-fluid w-100" alt="" />
-                                    </div>
-                                    <div class="pbmit-meta-date-wrapper">					
-                                       <span class="pbmit-date">25 </span>
-                                       <span class="pbmit-month"> apr </span> 
-                                    </div>
-                                 </div>
-                                 <div class="pbminfotech-box-content">
-                                    <div class="pbmit-meta-container">
-                                       <div class="pbmit-meta-category pbmit-meta-line">
-                                          <i class="pbmit-base-icon-bookmark"></i>
-                                          <a href="blog-classic.html" rel="category tag">Social</a>		
-                                       </div>
-                                       <div class="pbmit-meta-author-wrapper pbmit-meta-line">							
-                                          <a href="#" title="Posted by admin" rel="author">
-                                             <i class="pbmit-base-icon-user-circle"></i> by admin
-                                          </a>
-                                       </div>
-                                       <div class="pbmit-meta-comment-wrapper pbmit-meta-line">	
-                                          <span class="pbmit-meta pbmit-meta-comments">
-                                             <i class="pbmit-base-icon-comment"></i> 2 
-                                             <span class="pbmit-meta pbmit-meta-comments">Comments</span>
-                                          </span>
-                                       </div>
-                                    </div>
-                                    <h3 class="pbmit-post-title">
-                                       <a href="blog-details.html">Excellence in education award - Transforming higher education in Junagadh</a>
-                                    </h3>
-                                    <div class="pbminfotech-box-desc">
-                                       The point of using is that it has a more-or-less normal distribution of letters, as opposed to using making it…		
-                                    </div>
-                                 </div>
-                              </div>
-                           </article>
-                        </div>
-                        <div class="swiper-slide">
-                        	 <!-- Slide5 -->
-                           <article class="pbmit-blog-style-2 politics pbmit-odd pbmit-col-odd">
-                              <div class="post-item">
-                                 <div class="pbmit-featured-container">
-                                    <div class="pbmit-featured-wrapper">
-                                       <img src="images/blog/blog01.jpg" class="img-fluid w-100" alt="" />
-                                    </div>
-                                    <div class="pbmit-meta-date-wrapper">					
-                                       <span class="pbmit-date">25 </span>
-                                       <span class="pbmit-month"> apr </span> 
-                                    </div>
-                                 </div>
-                                 <div class="pbminfotech-box-content">
-                                    <div class="pbmit-meta-container">
-                                       <div class="pbmit-meta-category pbmit-meta-line">
-                                          <i class="pbmit-base-icon-bookmark"></i>
-                                          <a href="blog-classic.html" rel="category tag">Social</a>		
-                                       </div>
-                                       <div class="pbmit-meta-author-wrapper pbmit-meta-line">							
-                                          <a href="#" title="Posted by admin" rel="author">
-                                             <i class="pbmit-base-icon-user-circle"></i> by admin
-                                          </a>
-                                       </div>
-                                       <div class="pbmit-meta-comment-wrapper pbmit-meta-line">	
-                                          <span class="pbmit-meta pbmit-meta-comments">
-                                             <i class="pbmit-base-icon-comment"></i> 2 
-                                             <span class="pbmit-meta pbmit-meta-comments">Comments</span>
-                                          </span>
-                                       </div>
-                                    </div>
-                                    <h3 class="pbmit-post-title">
-                                       <a href="blog-details.html">Best social activities during covid</a>
-                                    </h3>
-                                    <div class="pbminfotech-box-desc">
-                                       The point of using is that it has a more-or-less normal distribution of letters, as opposed to using making it…		
-                                    </div>
-                                 </div>
-                              </div>
-                           </article>
-                        </div>
-                        <div class="swiper-slide">
-                        	 <!-- Slide5 -->
-                           <article class="pbmit-blog-style-2 politics pbmit-odd pbmit-col-odd">
-                              <div class="post-item">
-                                 <div class="pbmit-featured-container">
-                                    <div class="pbmit-featured-wrapper">
-                                       <img src="images/blog/blog01.jpg" class="img-fluid w-100" alt="" />
-                                    </div>
-                                    <div class="pbmit-meta-date-wrapper">					
-                                       <span class="pbmit-date">25 </span>
-                                       <span class="pbmit-month"> apr </span> 
-                                    </div>
-                                 </div>
-                                 <div class="pbminfotech-box-content">
-                                    <div class="pbmit-meta-container">
-                                       <div class="pbmit-meta-category pbmit-meta-line">
-                                          <i class="pbmit-base-icon-bookmark"></i>
-                                          <a href="blog-classic.html" rel="category tag">Social</a>		
-                                       </div>
-                                       <div class="pbmit-meta-author-wrapper pbmit-meta-line">							
-                                          <a href="#" title="Posted by admin" rel="author">
-                                             <i class="pbmit-base-icon-user-circle"></i> by admin
-                                          </a>
-                                       </div>
-                                       <div class="pbmit-meta-comment-wrapper pbmit-meta-line">	
-                                          <span class="pbmit-meta pbmit-meta-comments">
-                                             <i class="pbmit-base-icon-comment"></i> 2 
-                                             <span class="pbmit-meta pbmit-meta-comments">Comments</span>
-                                          </span>
-                                       </div>
-                                    </div>
-                                    <h3 class="pbmit-post-title">
-                                       <a href="blog-details.html">February 2022: Divya Bhaskar Award</a>
-                                    </h3>
-                                    <div class="pbminfotech-box-desc">
-                                       The point of using is that it has a more-or-less normal distribution of letters, as opposed to using making it…		
-                                    </div>
-                                 </div>
-                              </div>
-                           </article>
-                        </div>
-                        <div class="swiper-slide">
-                        	 <!-- Slide5 -->
-                           <article class="pbmit-blog-style-2 politics pbmit-odd pbmit-col-odd">
-                              <div class="post-item">
-                                 <div class="pbmit-featured-container">
-                                    <div class="pbmit-featured-wrapper">
-                                       <img src="images/blog/blog01.jpg" class="img-fluid w-100" alt="" />
-                                    </div>
-                                    <div class="pbmit-meta-date-wrapper">					
-                                       <span class="pbmit-date">25 </span>
-                                       <span class="pbmit-month"> apr </span> 
-                                    </div>
-                                 </div>
-                                 <div class="pbminfotech-box-content">
-                                    <div class="pbmit-meta-container">
-                                       <div class="pbmit-meta-category pbmit-meta-line">
-                                          <i class="pbmit-base-icon-bookmark"></i>
-                                          <a href="blog-classic.html" rel="category tag">Social</a>		
-                                       </div>
-                                       <div class="pbmit-meta-author-wrapper pbmit-meta-line">							
-                                          <a href="#" title="Posted by admin" rel="author">
-                                             <i class="pbmit-base-icon-user-circle"></i> by admin
-                                          </a>
-                                       </div>
-                                       <div class="pbmit-meta-comment-wrapper pbmit-meta-line">	
-                                          <span class="pbmit-meta pbmit-meta-comments">
-                                             <i class="pbmit-base-icon-comment"></i> 2 
-                                             <span class="pbmit-meta pbmit-meta-comments">Comments</span>
-                                          </span>
-                                       </div>
-                                    </div>
-                                    <h3 class="pbmit-post-title">
-                                       <a href="blog-details.html">Year 2024: Bar Presidential Award</a>
-                                    </h3>
-                                    <div class="pbminfotech-box-desc">
-                                       The point of using is that it has a more-or-less normal distribution of letters, as opposed to using making it…		
-                                    </div>
+                                    
                                  </div>
                               </div>
                            </article>
@@ -329,37 +235,28 @@
                               <div class="post-item">
                                  <div class="pbmit-featured-container">
                                     <div class="pbmit-featured-wrapper">
-                                       <img src="images/blog/blog03.jpg" class="img-fluid w-100" alt="" />
+                                       <img src="images/awards/best_startup.png" class="img-fluid w-100" alt="" />
                                     </div>
-                                    <div class="pbmit-meta-date-wrapper">					
-                                       <span class="pbmit-date">29 </span>
-                                       <span class="pbmit-month"> Jun</span> 
-                                    </div>
+                                   
                                  </div>
                                  <div class="pbminfotech-box-content">
                                     <div class="pbmit-meta-container">
-                                       <div class="pbmit-meta-category pbmit-meta-line">
-                                          <i class="pbmit-base-icon-bookmark"></i>
-                                          <a href="blog-classic.html" rel="category tag">Events</a>		
+                                       <div class="pbmit-meta-category">
+                                          
+                                         		
                                        </div>
-                                       <div class="pbmit-meta-author-wrapper pbmit-meta-line">							
-                                          <a href="#" title="Posted by admin" rel="author">
-                                             <i class="pbmit-base-icon-user-circle"></i> by admin
-                                          </a>
+                                       <div class="pbmit-meta-author-wrapper">							
+                                          
                                        </div>
-                                       <div class="pbmit-meta-comment-wrapper pbmit-meta-line">	
+                                       <div class="pbmit-meta-comment-wrapper">	
                                           <span class="pbmit-meta pbmit-meta-comments">
-                                             <i class="pbmit-base-icon-comment"></i> 3
-                                             <span class="pbmit-meta pbmit-meta-comments">Comments</span>
-                                          </span>
+                                            
                                        </div>
                                     </div>
                                     <h3 class="pbmit-post-title">
-                                       <a href="blog-details.html">Best startup award - Girveda</a>
+                                       <a href="">Best startup award - Girveda</a>
                                     </h3>
-                                    <div class="pbminfotech-box-desc">
-                                       The point of using is that it has a more-or-less normal distribution of letters, as opposed to using making it…		
-                                    </div>
+                                    
                                  </div>
                               </div>
                            </article>

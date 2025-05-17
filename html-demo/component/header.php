@@ -16,6 +16,8 @@
       <link rel="stylesheet" href="css/bootstrap.min.css">
       <!-- Fontawesome -->
       <link rel="stylesheet" href="css/fontawesome.css">
+      <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+
       <!-- Flaticon -->
       <link rel="stylesheet" href="css/flaticon.css">
       <!-- optico Icons -->
@@ -45,56 +47,14 @@
       <div class="page-wrapper">
          <!-- Header Main Area -->
          <header class="site-header header-style-1">
-            <div class="pre-header">
-               <div class="container">
-                  <div class="d-md-flex justify-content-between align-items-center">
-                     <div class="pbmit-pre-header-left">
-                        <ul class="pbmit-contact-info">
-                           <li>
-                              <i class="pbmit-base-icon-phone-volume-solid"></i>
-                              <a href="tel:(+1)555234-8765">Call for help: <span>(+1)555234-8765</span></a> 
-                           </li>
-                           <li>
-                              <i class=" pbmit-base-icon-mail-alt"></i>
-                              <a href="https://politicia-demo.pbminfotech.com/cdn-cgi/l/email-protection#28404d4444476841464e47584744415c414b4149064b4745">Mail to us: <span><span class="__cf_email__" data-cfemail="8ce4e9e0e0e3cce5e2eae3fce3e0e5f8e5efe5eda2efe3e1">[email&#160;protected]</span></span></a>
-                           </li>
-                        </ul>
-                     </div>
-                     <div class="pbmit-pre-header-right d-flex"> Follow Us 
-                        <ul class="pbmit-social-links">
-                           <li class="pbmit-social-li pbmit-social-facebook ">
-                              <a href="#" target="_blank"><span>
-                                 <i class="pbmit-base-icon-facebook-squared"></i></span>
-                              </a>
-                           </li>
-                           <li class="pbmit-social-li pbmit-social-twitter ">
-                              <a href="#" target="_blank"><span>
-                                 <i class="pbmit-base-icon-twitter"></i></span>
-                              </a>
-                           </li>
-                           <li class="pbmit-social-li pbmit-social-instagram ">
-                              <a href="#" target="_blank"><span>
-                                 <i class="pbmit-base-icon-instagram"></i></span>
-                              </a>
-                           </li>
-                           <li class="pbmit-social-li pbmit-social-youtube ">
-                              <a href="#" target="_blank"><span>
-                                 <i class="pbmit-base-icon-youtube-play"></i></span>
-                              </a>
-                           </li>
-                        </ul>                
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="site-header-menu">
+                        <div class="site-header-menu">
             <div class="container">
                <div class="row">
                   <div class="col-md-12">
                      <div class="d-flex align-items-center">
                      <div class="site-branding flex-grow-1">
-                        <a href="index-2.html">
-                           <img class="logo-img" alt="Politicia" src="images/politicia-logo.svg" />
+                        <a href="index-2.png">
+                           <img class="logo-img" alt="Politicia" src="images/logo2.png" />
                         </a>
                      </div>
                      <div class="site-navigation ml-auto">
@@ -161,15 +121,31 @@
                      </div>
                      <div class="pbmit-right-box">
                         <div class="pbmit-header-search-btn">
-                           <a href="#"><i class=" pbmit-base-icon-search-1"></i></a>
                         </div>
-                        <div class="menu-right-box d-flex align-items-center">
-                           <div class="pbmit-header-button">
-                              <a href="contact-us.html">
-                              <span class="pbmit-header-button-text-1">Join us now</span>          
+                       <div class="pbmit-pre-header-right d-flex"> Follow Us 
+                        <ul class="pbmit-social-links">
+                           <li class="pbmit-social-li pbmit-social-facebook ">
+                              <a href="#" target="_blank"><span>
+                                 <i class="pbmit-base-icon-facebook-squared"></i></span>
                               </a>
-                           </div>
-                        </div>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-twitter ">
+                              <a href="#" target="_blank"><span>
+                                 <i class="pbmit-base-icon-twitter"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-instagram ">
+                              <a href="#" target="_blank"><span>
+                                 <i class="pbmit-base-icon-instagram"></i></span>
+                              </a>
+                           </li>
+                           <li class="pbmit-social-li pbmit-social-youtube ">
+                              <a href="#" target="_blank"><span>
+                                 <i class="pbmit-base-icon-youtube-play"></i></span>
+                              </a>
+                           </li>
+                        </ul>                
+                     </div>
                      </div>
                   </div>
                </div>
