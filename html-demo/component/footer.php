@@ -1,168 +1,60 @@
+<footer style="background-color: #8C5E4A; color: #fff; padding: 50px 20px; font-family: 'Segoe UI', sans-serif;">
+  <style>
+    .footer-link {
+      color: #fff;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
 
-         <!-- footer -->
-         <footer class="footer site-footer">
-            <div class="footer-wrap pbmit-footer-big-area">
-               <div class="container">
-                  <div class="row">
-                     <div class=" col-sm-12 col-lg-6">								
-                        
-                        </div>                        
-                     </div>			
-                  </div>
-               </div>
-            </div>
-            <div class="pbmit-footer-widget-area">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-md-6 col-lg-3">
-                        <div class="widget">
-                           <h3 class="widget-title">We Are Politico</h3>
-                           <div class="textwidget">
-                              <p>We work with a passion of talking challenges and creating new ones in advertising sector.</p>
-                              <p class="pbmit-time-heading">Open hours:</p>
-                              <p>Mon-Sat:8 am – 5 am<br>Sunday: ClOSED</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-md-6 col-lg-3">
-                        <div class="pbmit-two-widget">
-                           <div class="widget">
-                              <h3 class="widget-title">Newsletter</h3>
-                              <p>Subscribe our newslatter for daily latest news and updates</p>
-                              <form class="pbmit-footer-newsletter">
-                                 <input type="email" class="form-control" placeholder="Your email address" name="Your email address"> 
-                                 <button type="submit" value="SUBMIT">Subscribe</button>
-                              </form>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-md-6 col-lg-3">
-                        <div class="widget">
-                           <h3 class="widget-title">Get In Touch</h3>
-                           <div class="pbmit-contact-widget-lines">
-                              <div class="pbmit-contact-widget">
-                                 <i class="pbmit-base-icon-location"></i>
-                                 <div class="pbmit-contact-widget-line">30 Commercial Road<br>Fratton, Australia </div>
-                              </div>
-                              <div class="pbmit-contact-widget">
-                                 <i class="pbmit-base-icon-phone"></i>
-                                 <div class="pbmit-contact-widget-line">1-888-452-1505</div>
-                              </div>
-                              <div class="pbmit-contact-widget">
-                                 <i class="pbmit-base-icon-mail-alt"></i>
-                                 <div class="pbmit-contact-widget-line"><a href="https://politicia-demo.pbminfotech.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e38a8d858ca3938c8f8a978a808a82cd808c8e">[email&#160;protected]</a></div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-md-6 col-lg-3">
-                        <div class="widget">
-                           <h3 class="widget-title">Instagram</h3>
-                           <div class="row g-2 mb-2">
-                              <div class="col-md-4 col-sm-4">
-                                 <img src="images/project/portfolio05.jpg" class="img-fluid w-100" alt=""/>
-                              </div>
-                              <div class="col-md-4 col-sm-4">
-                                 <img src="images/project/portfolio04.jpg" class="img-fluid w-100" alt=""/>
-                              </div>
-                              <div class="col-md-4 col-sm-4">
-                                 <img src="images/project/portfolio03.jpg" class="img-fluid w-100" alt=""/>
-                              </div>
-                           </div>
-                           <div class="row g-2">
-                              <div class="col-md-4 col-sm-4">
-                                 <img src="images/project/portfolio02.jpg" class="img-fluid w-100" alt=""/>
-                              </div>
-                              <div class="col-md-4 col-sm-4">
-                                 <img src="images/project/portfolio08.jpg" class="img-fluid w-100" alt=""/>
-                              </div>
-                              <div class="col-md-4 col-sm-4">
-                                 <img src="images/project/portfolio07.jpg" class="img-fluid w-100" alt=""/>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="pbmit-footer-section">
-               <div class="container">
-                  <div class="pbmit-footer-text-inner">   
-                     <div class="pbmit-footer-copyright-box">Copyright © 2021 Politicia, All Rights Reserved.</div>
-                     <div class="pbmit-footer-copyright-box mt-sm-3">
-                        <ul class="pbmit-social-links">
-                           <li class="pbmit-social-li pbmit-social-facebook ">
-                              <a href="#" target="_blank">
-                                 <span><i class="pbmit-base-icon-facebook-squared"></i></span>
-                              </a>
-                           </li>
-                           <li class="pbmit-social-li pbmit-social-twitter ">
-                              <a href="#" target="_blank">
-                                 <span><i class="pbmit-base-icon-twitter"></i></span>
-                              </a>
-                           </li>
-                           <li class="pbmit-social-li pbmit-social-instagram ">
-                              <a href="#" target="_blank">
-                                 <span><i class="pbmit-base-icon-instagram"></i></span>
-                              </a>
-                           </li>
-                           <li class="pbmit-social-li pbmit-social-youtube ">
-                              <a href="#" target="_blank">
-                                 <span><i class="pbmit-base-icon-youtube-play"></i></span>
-                              </a>
-                           </li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-            </div>	
-         </footer>
-         <!-- footer End -->
-      </div>
-      <!-- page wrapper End -->
+    .footer-link:hover {
+      color: #ffddb0; /* soft golden shade on hover */
+    }
 
-      <!-- Search Box Start Here -->
-      <div class="pbmit-search-overlay">
-         <div class="pbmit-icon-close"></div>
-         <div class="pbmit-search-outer"> 
-            <form class="pbmit-site-searchform">
-               <input type="search" class="form-control field searchform-s" name="s" placeholder="Type Word Then Press Enter">
-               <button type="submit"><i class="pbmit-base-icon-search-1"></i></button>
-            </form>
-         </div>
-      </div>
-   <!-- Search Box End Here -->
+    .footer-section {
+      flex: 1 1 300px;
+    }
 
-      <!-- JS
-         ============================================ -->
-      <!-- jQuery JS -->
-      <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery.min.js"></script>
-      <!-- Popper JS -->
-      <script src="js/popper.min.js"></script>
-      <!-- Bootstrap JS -->
-      <script src="js/bootstrap.min.js"></script>
-      <!-- jquery Waypoints JS -->
-      <script src="js/jquery.waypoints.min.js"></script>
-      <!-- jquery Appear JS -->
-      <script src="js/jquery.appear.js"></script>
-      <!-- Numinate JS -->
-      <script src="js/numinate.min.js"></script>
-      <!-- Slick JS -->
-      <script src="js/swiper.min.js"></script>
-      <!-- Magnific JS -->
-      <script src="js/jquery.magnific-popup.min.js"></script>
-      <!-- Circle Progress JS -->
-      <script src="js/circle-progress.js"></script> 
-      <!-- countdown JS -->
-      <script src="js/jquery.countdown.min.js"></script> 
-      <!-- AOS -->
-      <script src="js/aos.js"></script>
-      <!-- Scripts JS -->
-      <script src="js/scripts.js"></script>
-      <!-- Revolution JS -->
-      <script src="revolution/rslider.js"></script>
-      <script src="revolution/rbtools.min.js"></script>
-      <script src="revolution/rs6.min.js"></script>
+    @media (max-width: 768px) {
+      .footer-container {
+        flex-direction: column;
+        gap: 30px;
+      }
+    }
+  </style>
 
-   <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'93c675ba4c5e6ecb',t:'MTc0NjY4MTEyNC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='../cdn-cgi/challenge-platform/h/b/scripts/jsd/701fd2559006/maind41d.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"93c675ba4c5e6ecb","version":"2025.4.0-1-g37f21b1","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"125856bf84ab44059737e93b01aa0fef","b":1}' crossorigin="anonymous"></script>
-</body>
+  <div class="footer-container" style="max-width: 1200px; margin: auto; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 40px;">
+
+    <!-- About -->
+    <div class="footer-section">
+      <h3 style="color: #fff; margin-bottom: 15px; font-weight: 600;">Dr. Nilesh Dhulesia</h3>
+      <p style="line-height: 1.8;">
+        With years of experience and a passion for ethical service, Nilesh Dhulesia is known for his dedication, vision, and people-first approach.
+      </p>
+    </div>
+
+    <!-- Contact -->
+    <div class="footer-section">
+      <h3 style="color: #fff; margin-bottom: 15px; font-weight: 600;">Get In Touch</h3>
+      <p>Near Sahid Park, Talav Gate,<br>Opp. Suvidha Complex,<br>Junagadh, Gujarat 362001.</p>
+      <p>📞 1-888-452-1505</p>
+      <p>📧 <a href="mailto:info@politicia.com" class="footer-link">info@politicia.com</a></p>
+    </div>
+
+    <!-- Links -->
+    <div class="footer-section">
+      <h3 style="color: #fff; margin-bottom: 15px; font-weight: 600;">Quick Links</h3>
+      <ul style="list-style: none; padding: 0; margin: 0; line-height: 2;">
+        <li><a href="index.html" class="footer-link">Home</a></li>
+        <li><a href="about.html" class="footer-link">About</a></li>
+        <li><a href="services.html" class="footer-link">Services</a></li>
+        <li><a href="contact.html" class="footer-link">Contact</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+  <!-- Bottom Text -->
+  <div style="text-align: center; margin-top: 40px; font-size: 14px; color: #eee;">
+    © 2025 Dr. Nilesh Dhulesia. All Rights Reserved.
+  </div>
+</footer>

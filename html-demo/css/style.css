@@ -20,47 +20,105 @@
 /*  00 - Home
 /*----------------------------------------*/
 
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
 }
 
 body {
   font-family: sans-serif;
+    overflow-x: hidden;
+
 }
 
 .slider {
-  width: 100%;
-  height: 100vh;
+  width: 100vw;
+  max-height: 100vh;
   overflow: hidden;
   position: relative;
+  margin: 0;
+  padding: 0;
 }
 
 .slides {
   display: flex;
-  width: 300%; /* 3 images */
-  height: 100%;
+  width: 300vw; /* Matches 3 images * 100vw */
   animation: slideAnimation 15s infinite;
+  margin: 0;
+  padding: 0;
 }
 
 .slides img {
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   object-fit: cover;
+  display: block;
+  margin: 0;
+  padding: 0;
+  flex-shrink: 0; /* Prevents images from shrinking and causing gaps */
 }
 
-/* Animation */
 @keyframes slideAnimation {
-  0%    { transform: translateX(0%); }
-  33%   { transform: translateX(0%); }
-  38%   { transform: translateX(-100%); }
-  66%   { transform: translateX(-100%); }
-  71%   { transform: translateX(-200%); }
-  100%  { transform: translateX(-200%); }
+  0%    { transform: translateX(0vw); }
+  33%   { transform: translateX(0vw); }
+  38%   { transform: translateX(-100vw); }
+  66%   { transform: translateX(-100vw); }
+  71%   { transform: translateX(-200vw); }
+  100%  { transform: translateX(-200vw); }
 }
 
+@media (max-width: 768px) {
+  .slides img {
+    height: 50vh;
+    object-fit: cover;
+  }
+}
+
+
+
+
+
+
+
+
+
+.about-banner {
+  background-image: url('../images/slider4.jpeg'); /* path to your image */
+  background-size: cover;
+  background-position: center;
+  height: 300px; /* adjust based on your design */
+  display: flex;
+  align-items: center;
+  padding-left: 100px;
+  color: white;
+  position: relative;
+}
+
+.about-banner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.2); /* optional overlay for text contrast */
+}
+
+.about-banner .content {
+  position: relative;
+  z-index: 2;
+}
+
+.about-banner h3 {
+  font-size: 24px;
+  color: #956956;
+  margin: 0;
+}
+
+.about-banner h1 {
+  font-size: 48px;
+  font-weight: bold;
+  margin: 10px 0 0;
+}
 
 
 
@@ -1729,6 +1787,49 @@ h2.pbmit-title{
     font-size: 24px;
     line-height: 34px;
 }
+
+
+.hero-section {
+  background-image: url(../images/bg1.png); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 80px 20px;
+  color: #111;
+  text-align: center;
+  position: relative;
+}
+
+.hero-section::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.7); /* light overlay for readability */
+  z-index: 1;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-size: 18px;
+  line-height: 1.8;
+  color: #111;
+}
+
+.hero-section h2 {
+  font-size: 42px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #956956; /* deep brown tone */
+}
+
+
+
+
 /** Blog Large **/
 article.post{
     margin-bottom: 30px;

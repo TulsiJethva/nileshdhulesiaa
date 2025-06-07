@@ -144,7 +144,7 @@
   <div class="content-container">
   <div id="content-1" class="content-box active">
   <h3>Real Estate (Since Year 1991)</h3>
-  <h4 style="margin:8px 0;background:#8d5c3d;color:white;display:inline-block;padding:4px 10px;border-radius:4px;">NOBLE BUILDERS</h4>
+  <h6 style="margin:8px 0;background:#8d5c3d;color:white;display:inline-block;padding:4px 10px;border-radius:4px;">NOBLE BUILDERS</h6>
   <p style="margin-top:15px;">
     Mr. Nilesh Dhulesia laid the foundation for Noble Group of Companies in year 1991 by venturing into real estate.
     His company developed residential and commercial properties, transforming Junagadh’s urban landscape.
@@ -176,29 +176,29 @@
     <div style="flex:1;min-width:250px;text-align:center;">
       <img src="images/logos/eps.png"  alt="Eklavya Public School Logo" style="height:80px;">
       <h4>Eklavya Public School</h4>
-      <p>Playhouse to 12th (Gujarati & English Medium)</p>
-      <p><strong>Year:</strong> 2004</p>
+      <p>Playhouse to 12th (Gujarati & English Medium)<br>
+      <strong>Year:</strong> 2004</p>
     </div>
 
     <div style="flex:1;min-width:250px;text-align:center;">
       <img src="images/logos/egs.png" alt="Eklavya Global School Logo" style="height:80px;">
       <h4>Eklavya Global School</h4>
-      <p>First “Bagless School” in Junagadh</p>
-      <p><strong>Year:</strong> 2016</p>
+      <p>First “Bagless School” in Junagadh<br>
+      <strong>Year:</strong> 2016</p>
     </div>
 
     <div style="flex:1;min-width:250px;text-align:center;">
       <img src="images/logos/nu.jpg" alt="Noble University Logo" style="height:80px;">
       <h4>Noble University</h4>
-      <p>Skill-based Higher Education Institute</p>
-      <p><strong>Year:</strong> 2007</p>
+      <p>Skill-based Higher Education Institute<br>
+      <strong>Year:</strong> 2007</p>
     </div>
   </div>
 </div>
 
 <div id="content-3" class="content-box">
   <h3>Entertainment & Leisure (Since Year 2007)</h3>
-  <h4 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">SURAJ MAGIC LAND PVT. LTD.</h4>
+  <h6 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">SURAJ MAGIC LAND PVT. LTD.</h6>
   <p style="margin-top:10px;">
     Recognising the need for modern entertainment and leisure facilities in Junagadh, Nilesh Dhulesia established Suraj Magic Land Pvt. Ltd. in the year 2007. Under his leadership, the company has launched several initiatives that have transformed the city's recreational landscape.
   </p>
@@ -207,19 +207,19 @@
 
     <div style="flex:1;min-width:250px;text-align:center;">
       <img src="images/logos/scp.jpg" alt="Suraj Cineplex Logo" style="height:100px;"><br>
-      <h5 style="margin:8px 0;background:#8d5c3d;color:white;display:inline-block;padding:4px 10px;border-radius:4px;">Suraj Cineplex</h5>
+      <h7 style="margin:8px 0;background:#8d5c3d;color:white;display:inline-block;padding:4px 10px;border-radius:4px;">Suraj Cineplex</h7>
       <p>The city’s first multiplex<br><strong>with 5 screens.</strong></p>
     </div>
 
     <div style="flex:1;min-width:250px;text-align:center;">
       <img src="images/logos/funworld.jpg" alt="Suraj Funworld Logo" style="height:100px;"><br>
-      <h5 style="margin:8px 0;background:#8d5c3d;color:white;display:inline-block;padding:4px 10px;border-radius:4px;">Suraj Funworld</h5>
+      <h7 style="margin:8px 0;background:#8d5c3d;color:white;display:inline-block;padding:4px 10px;border-radius:4px;">Suraj Funworld</h7>
       <p>A theme park with <strong>25+ rides</strong><br>for families.</p>
     </div>
 
     <div style="flex:1;min-width:250px;text-align:center;">
       <img src="images/logos/sfs.jpg" alt="Suraj Fitness Studio Logo" style="height:100px;"><br>
-      <h5 style="margin:8px 0;background:#8d5c3d;color:white;display:inline-block;padding:4px 10px;border-radius:4px;">Suraj Fitness Studio</h5>
+      <h7 style="margin:8px 0;background:#8d5c3d;color:white;display:inline-block;padding:4px 10px;border-radius:4px;">Suraj Fitness Studio</h7>
       <p>First <strong>Unisex Gym</strong><br>in Junagadh.</p>
     </div>
 
@@ -231,9 +231,9 @@
   <h3>Digital Venture (Since Year 2017)</h3>
 
   <!-- Highlighted Company Name Box -->
-  <h4 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">
+  <h6 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">
     NOBLE DIGI VENTURES
-  </h4>
+  </h6>
   <img src="images/logos/ndv.jpg" alt="Noble Digi Ventures Logo" style="height:80px;"><br>
 
   <p style="margin-top:10px;">
@@ -273,9 +273,9 @@
   <h3>Hospitality (Since Year 2019)</h3>
 
   <!-- Highlighted Company Name Box -->
-  <h4 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">
+  <h6 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">
     BYKE SURAJ CLUB & RAIVAT INN
-  </h4>
+  </h6>
 
   <p style="margin-top:10px;">
     Understanding the growing tourism potential of Junagadh, Nilesh Dhulesia expanded into the hospitality sector in year 2019. 
@@ -319,9 +319,9 @@
   <h3>Health & Wellness (Since Year 2020)</h3>
 
   <!-- Highlighted Company Name Box -->
-  <h4 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">
+  <h6 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">
     GIRVEDA
-  </h4>
+  </h6>
 
   <p style="margin-top:10px;">
     With a vision to promote natural health and sustainable living, Nilesh Dhulesia established Girveda in year 2020. 
@@ -370,9 +370,9 @@
   <h3>Health Care (Hospital)</h3>
 
   <!-- Highlighted Company Name Box -->
-  <h4 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">
+  <h6 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">
     NOBLE HOSPITAL
-  </h4>
+  </h6>
 
   <p style="margin-top:10px;">
     Mr. Nilesh Dhulesia’s commitment to health is truly remarkable. Recognising the healthcare challenges faced by Junagadh’s rural population, he initiated various medical and educational institutions, including an <strong>Ayurveda Hospital (100-bed)</strong>, <strong>Homoeopathy Hospital (50-bed)</strong>, <strong>Nursing School</strong>, <strong>Nursing College</strong>, <strong>Pharmacy College</strong> and a <strong>DMLT Centre</strong>. These institutions provide <strong>free medical treatment</strong> to the community surrounding the university area, benefiting thousands of patients annually.
@@ -415,7 +415,7 @@
   </p>
 
   <!-- Personal Info List -->
-  <h4 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">PERSONAL INFORMATION</h4>
+  <h6 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">PERSONAL INFORMATION</h6>
   <ul style="margin-top:10px;line-height:1.6;">
     <li><strong>Ex. Chairman</strong>, Standing Committee, Junagadh Municipal Corporation.</li>
     <li><strong>Ex. Corporator & Former Dandak</strong>, Junagadh Municipal Corporation.</li>
@@ -443,13 +443,12 @@
   <h3>Social & Charitable Activities</h3>
 
   <!-- Section Highlight -->
-  <div style="background:#87553b;color:white;display:inline-block;padding:4px 10px;border-radius:5px;margin-bottom:10px;">
-    Shri Jyoti Dhulesia Memorial Foundation
-  </div>
+  
+      <h6 style="background:#8d5c3d;color:white;display:inline-block;padding:4px 12px;border-radius:4px;">Shri Jyoti Dhulesia Memorial Foundation</h6>
 
   <!-- Logo Right -->
   <div style="text-align:right;margin-top:-40px;margin-bottom:10px;">
-    <img src="images/logos/sjd.png" alt="Shri Jyoti Dhulesia Memorial Foundation Logo" style="height:0px;">
+    <img src="images/logos/sjd.png" alt="Shri Jyoti Dhulesia Memorial Foundation Logo" style="height:100px;">
   </div>
 
   <p>
@@ -462,7 +461,7 @@
     <!-- Block 1 -->
     <div style="flex:1;min-width:280px;text-align:center;">
       <img src="images/social/cityfood.jpeg" alt="City Food Programme" style="width:80%;border-radius:8px;margin-bottom:10px;">
-      <h4 style="margin-top:0;">1. City Food Programme</h4>
+      <h6 style="margin-top:0;">1. City Food Programme</h6>
       <ul style="padding-left:20px;line-height:1.6;text-align:left;">
         <li>Distributes ration kits to underprivileged families to ensure they have access to essential meals.</li>
         <li>Aims to eradicate hunger and provide food security to those in need.</li>
@@ -472,7 +471,7 @@
     <!-- Block 2 -->
     <div style="flex:1;min-width:280px;text-align:center;">
       <img src="images/social/humanwelfare.jpeg" alt="Human Welfare & Relief Initiatives" style="width:80%;border-radius:8px;margin-bottom:10px;">
-      <h4 style="margin-top:0;">2. Human Welfare & Relief Initiatives</h4>
+      <h6 style="margin-top:0;">2. Human Welfare & Relief Initiatives</h6>
       <ul style="padding-left:20px;line-height:1.6;text-align:left;">
         <li>Supports families and individuals facing financial difficulties.</li>
         <li>Conducts disaster relief programmes and provides emergency assistance.</li>
@@ -483,7 +482,7 @@
      <!-- Block 3 -->
     <div style="flex:1;min-width:280px;text-align:center;">
       <img src="images/social/medicalrelief.jpeg" alt="City Food Programme" style="width:80%;border-radius:8px;margin-bottom:10px;">
-      <h4 style="margin-top:0;">3. Medical Relief and Healthcare Support</h4>
+      <h6 style="margin-top:0;">3. Medical Relief and Healthcare Support</h6>
       <ul style="padding-left:20px;line-height:1.6;text-align:left;">
         <li>Covers medical expenses and treatments
             for underprivileged individuals.</li>
@@ -495,7 +494,7 @@
     <!-- Block 4 -->
     <div style="flex:1;min-width:280px;text-align:center;">
       <img src="images/social/womenwelfare.jpeg" alt="Human Welfare & Relief Initiatives" style="width:80%;border-radius:8px;margin-bottom:10px;">
-      <h4 style="margin-top:0;">4. Women's Welfare and Empowerment</h4>
+      <h6 style="margin-top:0;">4. Women's Welfare and Empowerment</h6>
       <ul style="padding-left:20px;line-height:1.6;text-align:left;">
         <li>Initiatives focused on women’s education,
             skill development and healthcare.</li>
@@ -506,7 +505,7 @@
  <!-- Block 5 -->
     <div style="flex:1;min-width:280px;text-align:center;">
       <img src="images/social/eduscholarships.jpeg" alt="City Food Programme" style="width:80%;border-radius:8px;margin-bottom:10px;">
-      <h4 style="margin-top:0;">5. Education Scholarship and Student Support</h4>
+      <h6 style="margin-top:0;">5. Education Scholarship and Student Support</h6>
       <ul style="padding-left:20px;line-height:1.6;text-align:left;">
         <li>Provides scholarships and financial aid to talented students from economically
             weaker sections.</li>
@@ -517,7 +516,7 @@
     <!-- Block 6 -->
     <div style="flex:1;min-width:280px;text-align:center;">
       <img src="images/social/recmemorial.jpeg" alt="Human Welfare & Relief Initiatives" style="width:80%;border-radius:8px;margin-bottom:10px;">
-      <h4 style="margin-top:0;">6. Recognition and Memorials for Social Contributors</h4>
+      <h6 style="margin-top:0;">6. Recognition and Memorials for Social Contributors</h6>
       <ul style="padding-left:20px;line-height:1.6;text-align:left;">
         <li>Honors individuals who contribute to social welfare and community development.</li>
         <li>Encourages a culture of service and social responsibility.</li>
@@ -527,7 +526,7 @@
  <!-- Block 7-->
     <div style="flex:1;min-width:280px;text-align:center;">
       <img src="images/social/empeco.jpeg" alt="City Food Programme" style="width:80%;border-radius:8px;margin-bottom:10px;">
-      <h4 style="margin-top:0;">7. Employment and Economic Growth Initiatives</h4>
+      <h6 style="margin-top:0;">7. Employment and Economic Growth Initiatives</h6>
       <ul style="padding-left:20px;line-height:1.6;text-align:left;">
         <li>Through various business ventures, the foundation has generated employment for over 1,000+ individuals.</li>
         <li>Supports local entrepreneurs and small businesses through mentor ship and financial aid.</li>
@@ -537,7 +536,7 @@
     <!-- Block 8 -->
     <div style="flex:1;min-width:280px;text-align:center;">
       <img src="images/social/susdevelopment.jpeg" alt="Human Welfare & Relief Initiatives" style="width:80%;border-radius:8px;margin-bottom:10px;">
-      <h4 style="margin-top:0;">8. Sustainable Development and Environmental Conservation</h4>
+      <h6 style="margin-top:0;">8. Sustainable Development and Environmental Conservation</h6>
       <ul style="padding-left:20px;line-height:1.6;text-align:left;">
         <li>Promotes eco-friendly urban development and green initiatives.</li>
         <li>Through Girveda, supports 100+ farmers in cow-based natural farming, encouraging
@@ -549,7 +548,7 @@
  <!-- Block 9 -->
     <div style="flex:1;min-width:280px;text-align:center;">
       <img src="images/social/digibusiness.jpeg" alt="City Food Programme" style="width:40%;border-radius:8px;margin-bottom:10px;">
-      <h4 style="margin-top:0;">9. Digital and Local Support for Local Entrepreneurs</h4>
+      <h6 style="margin-top:0;">9. Digital and Local Support for Local Entrepreneurs</h6>
       <ul style="padding-left:20px;line-height:1.6;text-align:left;">
         <li>Helps small businesses and startups with digital marketing, branding and promotional
 support.</li>
@@ -616,11 +615,6 @@ temple's ongoing spiritual and infrastructural development.</p>
 
 
 </div>
-
-
-
-
-
 
 
 

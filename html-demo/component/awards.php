@@ -2,10 +2,10 @@
             <section class="section-lgt">
                <div class="container">
                   <div class=" pbmit-heading-subheading text-center">
-                     <h2 class="pbmit-title">Awards and Recognitions</h2>
+                     <h2 style="text-align:center;">Awards and Recognitions</h2>
                      <p>Nilesh Dhulesia’s visionary leadership and contributions across multiple sectors have earned him prestigious awards and accolades. His efforts in real estate, education and community development have been widely recognised, highlighting his commitment to excellence and innovation, whether through building landmark residential projects, revolutionising education or contributing to urban and social development, his dedication continues to make a lasting impact.</p>
                   </div>
-                  <div class="swiper-slider" data-autoplay="false" data-dots="true" data-arrows="false" data-columns="3" data-margin="30" data-effect="slide">
+                  <div class="swiper-slider" data-autoplay="true" data-dots="true" data-autoplay-speed="500" data-arrows="false" data-columns="3" data-margin="30" data-effect="slide">
                      <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             
